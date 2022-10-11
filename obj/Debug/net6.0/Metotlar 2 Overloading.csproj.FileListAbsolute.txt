@@ -1,0 +1,15 @@
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\bin\Debug\net6.0\Metotlar 2 Overloading.exe
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\bin\Debug\net6.0\Metotlar 2 Overloading.deps.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\bin\Debug\net6.0\Metotlar 2 Overloading.runtimeconfig.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\bin\Debug\net6.0\Metotlar 2 Overloading.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\bin\Debug\net6.0\Metotlar 2 Overloading.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\obj\Debug\net6.0\Metotlar 2 Overloading.csproj.AssemblyReference.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\obj\Debug\net6.0\Metotlar 2 Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\obj\Debug\net6.0\Metotlar 2 Overloading.AssemblyInfoInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\obj\Debug\net6.0\Metotlar 2 Overloading.AssemblyInfo.cs
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\obj\Debug\net6.0\Metotlar 2 Overloading.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\obj\Debug\net6.0\Metotlar 2 Overloading.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\obj\Debug\net6.0\refint\Metotlar 2 Overloading.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\obj\Debug\net6.0\Metotlar 2 Overloading.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\obj\Debug\net6.0\Metotlar 2 Overloading.genruntimeconfig.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar 2 Overloading\obj\Debug\net6.0\ref\Metotlar 2 Overloading.dll
